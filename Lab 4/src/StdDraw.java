@@ -4,4 +4,6 @@ public class StdDraw {
 	 int whoop;
 	 String peace = "peace";
 	 String walla;
+	 String initiate;
+	 String intaface;
 }
